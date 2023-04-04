@@ -46,7 +46,7 @@ function getImageOfTheDay(e){
             return;
         }
     }
-    e.preventDefault();
+    e.preventDefault(); 
     //console.log(date);
     fetch(`https://api.nasa.gov/planetary/apod?date=${date}&api_key=${your_api_key}`)
     .then((res)=>res.json())
