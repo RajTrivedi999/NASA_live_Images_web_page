@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#current-image-container{
+    color: white;
+    background: black;
+    padding: 15px 15px;
+    margin: 10px;
+}
+#search-form,#texts,h3,h2{
+    margin: 10px;
+}
+.myImage{
+    width: 100%;
+    margin: 10px 0px;
+}
