@@ -15,3 +15,9 @@
     width: 100%;
     margin: 10px 0px;
 }
+#search-history{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 5px 30px;
+}
